@@ -28,7 +28,6 @@ skills/
 !tools/skillgen/fragments/core/
 !tools/skillgen/fragments/core/**
 docs/superpowers/
-.vscode/
 .kilo
 openspec/
 # Local benchmark scripts — never commit
@@ -40,3 +39,5 @@ paper/
 
 # macOS Finder metadata
 .DS_Store
+config.bat
+node_modules
